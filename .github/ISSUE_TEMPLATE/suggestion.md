@@ -2,7 +2,7 @@
 name: Suggestion
 about: Suggest an idea to add to Maxnet or this GitHub
 title: Untitled Suggestion
-labels: suggestion
+labels: Suggestion
 assignees: ''
 
 ---
@@ -17,4 +17,4 @@ assignees: ''
 <!-- A clear and concise description of any alternative solutions or features you've considered. -->
 
 **Additional Context**
-<!-- Add any other context or screenshots about the feature request here e.g. how it you came across the bug. -->
+<!-- Add any other context or screenshots about the feature request here e.g. what time the lightbulb went off in your head. -->
