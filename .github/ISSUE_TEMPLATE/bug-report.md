@@ -2,7 +2,7 @@
 name: Bug Report
 about: Create a bug report if something broke while using Maxnet.
 title: Untitled Bug Report
-labels: Bug
+labels: Bug, Invalid
 assignees: ''
 
 ---
